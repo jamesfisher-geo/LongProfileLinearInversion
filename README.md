@@ -115,7 +115,8 @@ PLACE IMAGE HERE
 - This is an additional function that is designed to be run using the output workspace from `MainLinearInversion_MonteCarlo.m`. The function will integrate uplift with respect to response time to model long profile elevation for each timestep. The function will also plot the stream network in each timestep in map view. There is an optional setting to output .gif animations of the long profile and map view evolution. This function can be called with examples from the `TauMap_U2T_Example.m` script.
 
 ### References Cited:
-Gallen, S. F. (2018). Lithologic controls on landscape dynamics and aquatic species<br><pre> evolution in post-orogenic mountains. *Earth and Planetary Science Letters, 
+Gallen, S. F. (2018). Lithologic controls on landscape dynamics and aquatic species
+<br>&nbsp;&nbsp;&nbsp;&nbsp; evolution in post-orogenic mountains. *Earth and Planetary Science Letters, 
 <br>&nbsp;&nbsp;&nbsp;&nbsp; 493, 150–160. https://doi.org/10.1016/j.epsl.2018.04.029*
 
 Goren, L., Fox, M., & Willett, S. D. (2014). Tectonics from fluvial topography using
