@@ -115,8 +115,14 @@ PLACE IMAGE HERE
 - This is an additional function that is designed to be run using the output workspace from `MainLinearInversion_MonteCarlo.m`. The function will integrate uplift with respect to response time to model long profile elevation for each timestep. The function will also plot the stream network in each timestep in map view. There is an optional setting to output .gif animations of the long profile and map view evolution. This function can be called with examples from the `TauMap_U2T_Example.m` script.
 
 ### References Cited:
-Gallen, S. F. (2018). Lithologic controls on landscape dynamics and aquatic species<br><pre> evolution in post-orogenic mountains. *Earth and Planetary Science Letters, <br><pre> 493, 150–160. https://doi.org/10.1016/j.epsl.2018.04.029*
+Gallen, S. F. (2018). Lithologic controls on landscape dynamics and aquatic species<br><pre> evolution in post-orogenic mountains. *Earth and Planetary Science Letters, 
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 493, 150–160. https://doi.org/10.1016/j.epsl.2018.04.029*
 
-Goren, L., Fox, M., & Willett, S. D. (2014). Tectonics from fluvial topography using<br><pre> formal linear inversion: Theory and applications to the Inyo Mountains, California.<br><pre> Journal of *Geophysical Research: Earth Surface, 119(8), 1651–1681. https://doi.org/10.1002/2014JF003079*
+Goren, L., Fox, M., & Willett, S. D. (2014). Tectonics from fluvial topography using
+<br>&nbsp;&nbsp;&nbsp;&nbsp; formal linear inversion: Theory and applications to the Inyo Mountains, California.
+<br>&nbsp;&nbsp;&nbsp;&nbsp; Journal of *Geophysical Research: Earth Surface, 119(8), 1651–1681. https://doi.org/10.1002/2014JF003079*
 
-Schwanghart, W., & Scherler, D. (2014). Schwanghart, W., & Scherler, D. (2014).<br><pre> Short Communication: TopoToolbox 2 – MATLAB-based software for topographic <br><pre> analysis and modeling in Earth surface sciences. *Earth Surface Dynamics,<br><pre> 2(1), 1–7. Copernicus GmbH. Retrieved from https://doi.org/10.5194%2Fesurf-2-1-2014*
+Schwanghart, W., & Scherler, D. (2014). Schwanghart, W., & Scherler, D. (2014).
+<br>&nbsp;&nbsp;&nbsp;&nbsp; Short Communication: TopoToolbox 2 – MATLAB-based software for topographic 
+<br>&nbsp;&nbsp;&nbsp;&nbsp; analysis and modeling in Earth surface sciences. *Earth Surface Dynamics,
+<br>&nbsp;&nbsp;&nbsp;&nbsp; 2(1), 1–7. Copernicus GmbH. Retrieved from https://doi.org/10.5194%2Fesurf-2-1-2014*
