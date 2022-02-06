@@ -117,6 +117,6 @@ PLACE IMAGE HERE
 ### References Cited:
 Gallen, S. F. (2018). Lithologic controls on landscape dynamics and aquatic species<br> evolution in post-orogenic mountains. *Earth and Planetary Science Letters, <br> 493, 150–160. https://doi.org/10.1016/j.epsl.2018.04.029*
 
-Goren, L., Fox, M., & Willett, S. D. (2014). Tectonics from fluvial topography using<br> formal linear inversion: Theory and applications to the Inyo Mountains, California.<br> Journal of *Geophysical Research: Earth Surface, 119(8), 1651–1681. https://doi.org/10.1002/2014JF003079*
+Goren, L., Fox, M., & Willett, S. D. (2014). Tectonics from fluvial topography using<br><pre><code> formal linear inversion: Theory and applications to the Inyo Mountains, California.<pre><code><br> Journal of *Geophysical Research: Earth Surface, 119(8), 1651–1681. https://doi.org/10.1002/2014JF003079*
 
-Schwanghart, W., & Scherler, D. (2014). Schwanghart, W., & Scherler, D. (2014).<br> Short Communication: TopoToolbox 2 – MATLAB-based software for topographic <br> analysis and modeling in Earth surface sciences. *Earth Surface Dynamics,<br> 2(1), 1–7. Copernicus GmbH. Retrieved from https://doi.org/10.5194%2Fesurf-2-1-2014*
+Schwanghart, W., & Scherler, D. (2014). Schwanghart, W., & Scherler, D. (2014).<br><pre><code> Short Communication: TopoToolbox 2 – MATLAB-based software for topographic <br><pre><code> analysis and modeling in Earth surface sciences. *Earth Surface Dynamics,<br><pre><code> 2(1), 1–7. Copernicus GmbH. Retrieved from https://doi.org/10.5194%2Fesurf-2-1-2014*
