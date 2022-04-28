@@ -1,4 +1,4 @@
-# LongProfileLinearInversion-FisherEtal-2022
+# Long ProfileLinear Inversion
 
 ## Suite of MatLab scripts for linear inversion of fluvial topography with variable erodibility
 
