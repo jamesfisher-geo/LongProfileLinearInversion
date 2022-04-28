@@ -80,7 +80,9 @@ timesteps – 50 x n matrix that holds the output timesteps from ‘n’ inversi
 - Med_Urate – The median U_rates at each timestep after ’n’ iterations.
 - BF_timesteps – timesteps to best-fit data. Array from 0 to the longest record from ‘n’ iterations.
 
-DATA STRUCTURE IMAGES HERE
+![E_Ksn_K_DataStructure](Image/E_Ksn_K_DataStructure.PNG)
+
+![Output Data Structure](Image/OutputDataStructure.PNG)
 
 ##### Workflow:
 1. Initialize data and generate optional weighted flow accumulation.
@@ -106,7 +108,7 @@ timestep.
 
  ##### Example output graph from the Enza basin with n=100.
  
-PLACE IMAGE HERE
+![Output Monte Carlo Graph](Image/OutputGraph.png)
 
 #### `taumap.m`:
 - This is an additional function that is designed to be run using the output workspace from `MainLinearInversion_MonteCarlo.m`. This function will generate a map object of the stream network in map view colored by response time. There is the option to export a shapefile of the stream network with response time attributes. This function can be called with examples from the `TauMap_U2T_Example.m` script.
