@@ -1,4 +1,4 @@
-# Long ProfileLinear Inversion
+# Long Profile Linear Inversion
 
 ## Suite of MatLab scripts for linear inversion of fluvial topography with variable erodibility
 
